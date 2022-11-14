@@ -526,7 +526,7 @@
     overflow: visible;
     color: #222222;
     line-height: 1.5 !important;
-    width: 500px;
+    max-width: 500px;
 }
 
 #callbacker .modal-callbacker-block .title-callbacker {
